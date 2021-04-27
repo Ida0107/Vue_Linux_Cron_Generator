@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+  </defs>
+  <title>Stop</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <path style="fill:#4aa7a9" d="M12,0A12,12,0,1,0,24,12,12,12,0,0,0,12,0Z"/>
+      <rect style="fill:#fff" x="8" y="8" width="8" height="8"/>
+    </g>
+  </g>
+</svg>

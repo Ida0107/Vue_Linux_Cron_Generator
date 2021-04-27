@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+    <defs>
+        <style>.cls-1{fill:#4aa7a9;}.cls-2{fill:#fff;stroke:#fff;stroke-miterlimit:10;stroke-width:0.73px;}
+        </style>
+    </defs>
+    <title>Add</title>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="Layer_1-2" data-name="Layer 1">
+            <circle style="fill:#4aa7a9;" cx="9" cy="9" r="9"/>
+            <path style="fill:#fff;stroke:#fff;stroke-miterlimit:10;stroke-width:0.73px;" d="M14.49,8.24l-4.76,0,0-4.76H8.24l0,4.76-4.76,0V9.76l4.77,0,0,4.76H9.76l0-4.77,4.76,0Z"/>
+        </g>
+    </g>
+</svg>

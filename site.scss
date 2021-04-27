@@ -1,0 +1,21 @@
+
+.cron-text-field {
+    margin: 34px 10px 0 !important;
+}
+
+.v-input {
+    max-width: 105px !important;
+}
+
+::v-deep .v-input__slot {
+    min-height: 35px !important;
+    min-width: 105px;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.align-center {
+    align-items: center;
+}

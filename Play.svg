@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+  </defs>
+  <title>Play-01-Normal</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <circle style="fill:#fff;" cx="12" cy="12" r="11"/>
+      <path style="fill:#4aa7a9;" d="M12,2A10,10,0,1,1,2,12,10,10,0,0,1,12,2m0-2A12,12,0,1,0,24,12,12,12,0,0,0,12,0Z"/>
+      <path style="fill:#4aa7a9;" d="M15.81,12.77l-4.78,4A1,1,0,0,1,9.39,16V8A1,1,0,0,1,11,7.25l4.78,4A1,1,0,0,1,15.81,12.77Z"/>
+    </g>
+  </g>
+</svg>
