@@ -1,0 +1,58 @@
+{
+  "name": "vue.linux.cron.generator",
+  "version": "0.0.02",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "build-lib": "vue-cli-service build --target lib --name vue.linux.cron.generator src/main.ts",
+    "test": "jest --verbose"
+  },
+  "main": "./dist/vue.linux.cron.generator.common.js",
+  "dependencies": {
+    "core-js": "^3.6.4",
+    "cronstrue": "^1.106.0",
+    "svgstore": "^3.0.0-2",
+    "vue": "^2.6.11",
+    "vue-class-component": "^7.2.3",
+    "vue-property-decorator": "^8.4.1",
+    "vue-router": "^3.1.6",
+    "vuetify": "2.2.8"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-decorators": "^7.8.3",
+    "@types/jest": "^25.2.1",
+    "@typescript-eslint/eslint-plugin": "^2.26.0",
+    "@typescript-eslint/parser": "^2.26.0",
+    "@vue/cli-plugin-babel": "~4.3.0",
+    "@vue/cli-plugin-eslint": "~4.3.0",
+    "@vue/cli-plugin-typescript": "^4.3.1",
+    "@vue/cli-plugin-unit-jest": "^4.3.1",
+    "@vue/cli-service": "~4.3.0",
+    "@vue/eslint-config-typescript": "^5.0.2",
+    "@vue/test-utils": "^1.0.0-beta.33",
+    "babel-eslint": "^10.1.0",
+    "babel-jest": "^25.5.1",
+    "eslint": "^6.7.2",
+    "eslint-plugin-jest": "^23.8.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "jest": "^25.5.4",
+    "jest-transform-stub": "^2.0.0",
+    "sass": "^1.26.5",
+    "sass-loader": "^8.0.2",
+    "svgo": "^1.1.0",
+    "svgo-loader": "^2.1.0",
+    "ts-jest": "^25.4.0",
+    "typescript": "~3.8.3",
+    "vue-class-component": "^7.2.3",
+    "vue-cli-plugin-svg-sprite": "~1.0.0",
+    "vue-jest": "^3.0.5",
+    "vue-property-decorator": "^8.4.1",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
